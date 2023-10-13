@@ -2,16 +2,19 @@
 
 
 ###Technology Stack:
+
 Tensorflow
 OpenCV
 Mediapipe
 
 ###Existing System:
+
 Mouse
 Keyboard
 Touch screen
 
 ###Proposed System:
+
 Eye Controlled AI Mouse
 AI Virtual Keyboard
 Desktop Virtual Assistant-JARVIS
